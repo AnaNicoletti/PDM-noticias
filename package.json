@@ -1,0 +1,22 @@
+{
+  "name": "pdm-noticias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaNicoletti/PDM-noticias.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaNicoletti/PDM-noticias/issues"
+  },
+  "homepage": "https://github.com/AnaNicoletti/PDM-noticias#readme",
+  "description": "",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}
